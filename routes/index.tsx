@@ -13,6 +13,9 @@ export default function Home() {
       <h2>
         Skill Test (Software Engineer)
       </h2>
+	  <label for="custom_input">
+		<input title="custom Input" placeholder="type your input" type="text" name="custom_input" />
+	  </label>
     </div>
   );
 }

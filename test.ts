@@ -9,7 +9,7 @@ Deno.test("E2E test", async (t) => {
     binaryPath: CHROME_BIN,
   });
 
-  const index = "http://localhost:80";
+  const index = "http://localhost:8000";
 
   /* Beginning of tests */
 
